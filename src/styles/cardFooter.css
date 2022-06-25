@@ -1,3 +1,29 @@
-.card-footer{
-    display: flex;
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.interest-count {
+  display: flex;
+  align-items: center;
+}
+
+.user {
+  width: 10px;
+  height: 10px;
+  margin: 0;
+}
+.interest-text {
+    margin-left: 1rem;
+  color: grey;
+  font-family: Prompt;
+  font-size: 12px;
+}
+
+.share {
+  width: 18px;
+  height: 23px;
+  margin: 0;
+  padding: 1px;
+  object-fit: contain;
 }

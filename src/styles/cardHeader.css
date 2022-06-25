@@ -1,0 +1,72 @@
+.card-header {
+    display: flex;
+  max-width: 440px;
+}
+
+.faculty {
+    width: 80%;
+  display: flex;
+}
+
+.faculty-logo {
+  width: 80px;
+  height: 86px;
+  padding: 0 0 1px;
+  object-fit: contain;
+  margin: 7px;
+}
+
+.like {
+  width: 24px;
+  height: 21px;
+  margin: 9px 32px 5px 61.8px;
+  padding: 1px;
+  object-fit: contain;
+}
+
+.faculty-name {
+  width: 335.4px;
+  height: 16px;
+  font-family: Prompt;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #cc4d46;
+  margin:0 0 5px 10px;
+}
+
+.faculty-field {
+  width: 203px;
+  height: 16px;
+  margin: 0 0 5px 10px;
+  font-family: Prompt;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: grey;
+  border: 0;
+}
+
+.university {
+  width: 217.2px;
+  height: 16px;
+  margin: 30px 61.8px 9px 11px;
+  font-family: Prompt;
+  font-size: 20px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--warm-grey);
+  border: 0;
+}
